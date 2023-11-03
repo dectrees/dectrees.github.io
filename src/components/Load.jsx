@@ -1,5 +1,5 @@
 import React from 'react'
-import imgLoading from '../assets/pre.svg'
+import imgLoading from '/assets/pre.svg'
 
 const Load = () => {
     return (
